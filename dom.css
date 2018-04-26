@@ -1,0 +1,38 @@
+.problem1 {
+  padding: 30px;
+  margin: 20px;
+  border: 2px solid pink;
+  width: 150px;
+}
+
+.problem1 button {
+  margin: 5px;
+}
+
+.problem2 {
+  width: 150px;
+  padding: 30px;
+  text-align: center;
+  margin: 20px;
+  background-color: pink;
+  border: 2px solid white;
+}
+
+.problem3 {
+  width: 210px;
+  height: 80px;
+  margin: 20px;
+  border: 2px solid pink;
+  text-align: center;
+  color: salmon;
+}
+
+.problem4 {
+  padding: 30px;
+  margin: 20px;
+  text-align: center;
+}
+
+.problem4 h1 {
+  color: salmon;
+}
